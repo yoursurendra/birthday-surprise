@@ -44,7 +44,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
     },
     {
       icon: "✨",
-      text: "Have a look at it, Swati Jiii",
+      text: "Have a look at it, Pratibha Jiii",
       type: "announcement",
     },
   ];
